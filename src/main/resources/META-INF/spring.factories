@@ -1,1 +1,2 @@
+#制定自动配置类
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.mxt.rocketmq.starter.RocketmqAutoConfigure
